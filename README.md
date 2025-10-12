@@ -5,7 +5,8 @@ Student Portal (CRUD Application)
 *:-Designed a responsive front-end interface and ensured seamless data interaction with MongoDB via RESTful APIs.
 *:-Applied authentication and role-based access control to secure user data.
 Home Page
-![Homepage](https://github.com/user-attachments/assets/8a2413c9-2917-4c07-ba3a-c7ac1bbc90f2)
+<img width="1910" height="922" alt="Homepage" src="https://github.com/user-attachments/assets/d0602ee3-5c5b-4e97-bb77-56a1718e84e9" />
+
 Login Page
 ![LoginPage](https://github.com/user-attachments/assets/0267a410-9391-475d-a82b-4f1de30a8905) 
 Your new User . get  Create Account
