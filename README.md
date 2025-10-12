@@ -8,9 +8,11 @@ Home Page
 <img width="1910" height="922" alt="Homepage" src="https://github.com/user-attachments/assets/d0602ee3-5c5b-4e97-bb77-56a1718e84e9" />
 
 Login Page
-![LoginPage](https://github.com/user-attachments/assets/0267a410-9391-475d-a82b-4f1de30a8905) 
+<img width="1903" height="920" alt="LoginPage" src="https://github.com/user-attachments/assets/4dccfd43-58f5-4604-b3ce-04221c7ae258" />
+
 Your new User . get  Create Account
-![Createaccountpage](https://github.com/user-attachments/assets/5443d801-05f8-455a-a9b6-bc8dd6765e5a)
+<img width="1911" height="917" alt="Createaccountpage" src="https://github.com/user-attachments/assets/f55446e4-99ed-4803-a1e6-d15b4377401c" />
+
 Add Student Detalis
 ![AddStudentdatapage](https://github.com/user-attachments/assets/19315295-ff8e-4bef-892f-7cf34a4ca277)
 Show All Student Data 
