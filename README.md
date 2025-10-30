@@ -36,4 +36,4 @@ This is Login Backend Store in MongoDB
 Folder Structure (In BackEnd Side)
 <img width="1913" height="753" alt="BackEndfolder" src="https://github.com/user-attachments/assets/14e56bd9-0901-44d3-b5e9-16ebb3757f52" />
 
-<img width="1913" height="753" alt="BackEndfolder" src="https://github.com/user-attachments/assets/65c20543-02cc-403e-b28e-0fc97b407e5f" />
+
