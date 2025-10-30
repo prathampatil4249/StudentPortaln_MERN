@@ -14,17 +14,26 @@ Your new User . get  Create Account
 <img width="1911" height="917" alt="Createaccountpage" src="https://github.com/user-attachments/assets/f55446e4-99ed-4803-a1e6-d15b4377401c" />
 
 Add Student Detalis
-![AddStudentdatapage](https://github.com/user-attachments/assets/19315295-ff8e-4bef-892f-7cf34a4ca277)
+<img width="1910" height="917" alt="AddStudentdatapage" src="https://github.com/user-attachments/assets/6724fdc7-6195-4ff4-b407-5680faa555b6" />
+
 Show All Student Data 
-![Allstudentpage](https://github.com/user-attachments/assets/1fd537be-159c-47d9-a325-7b4c97f38f24)
+<img width="1892" height="902" alt="Allstudentpage" src="https://github.com/user-attachments/assets/361c8f79-544f-457b-91a7-a7d02a4473dc" />
+
 Any Mistake to enter Student data show Edit option
-![EditStudentpage](https://github.com/user-attachments/assets/1820c368-3526-48ed-b49f-5bea12bbc805)
+<img width="1905" height="926" alt="EditStudentpage" src="https://github.com/user-attachments/assets/e85b5ff1-9dd8-4660-aec0-7d846e7240a3" />
+
 Update Student Data 
-![UpdateDonePage](https://github.com/user-attachments/assets/18cf5d54-b1c9-48e6-99d6-de533199cda0)
+<img width="1907" height="917" alt="UpdateDonePage" src="https://github.com/user-attachments/assets/264cec59-b066-41af-b8d1-ed69013ca38f" />
+
 Delete  Data for Student
-![DeletePage](https://github.com/user-attachments/assets/37ebd14f-74f7-4c17-ba1b-d7cd6a456fe1)
+<img width="1873" height="911" alt="DeletePage" src="https://github.com/user-attachments/assets/ff928941-0a6c-49c4-9cbe-c768a1a0a44e" />
+
 This Is DataBase Side Panel
-![MongoDBfiles](https://github.com/user-attachments/assets/6c9b1118-bdd3-400e-9956-556c86f11d93)
-![LoginUserDataPage](https://github.com/user-attachments/assets/fe0c78d3-d26b-4510-b06d-03c27c59e656)
+<img width="1915" height="983" alt="MongoDBfiles" src="https://github.com/user-attachments/assets/6cd82464-9c04-4ad4-8dad-4832e45c6315" />
+This is Login Backend Store in MongoDB
+<img width="1916" height="1007" alt="LoginUserDataPage" src="https://github.com/user-attachments/assets/e1b692a4-657b-48db-a2b9-5336317499f6" />
+
 Folder Structure (In BackEnd Side)
+<img width="1913" height="753" alt="BackEndfolder" src="https://github.com/user-attachments/assets/14e56bd9-0901-44d3-b5e9-16ebb3757f52" />
+
 <img width="1913" height="753" alt="BackEndfolder" src="https://github.com/user-attachments/assets/65c20543-02cc-403e-b28e-0fc97b407e5f" />
